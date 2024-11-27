@@ -1,0 +1,6 @@
+.slick-slide {
+  padding: 0 8px; /* 8px khoảng cách ngang giữa các slide */
+}
+.slick-list {
+  padding: 0 16px; /* Khoảng trống hai bên */
+}
